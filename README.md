@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kemoshabic
-- 👀 I’m interested in front end developing.
+- 👀 I’m interested in Front-End developing.
 - 🌱 I’m currently learning ReactNative.
 - 💞️ I’m looking to collaborate.
 - 📫 You can contact me on my business Email which is kemalsabic7@gmail.com.
